@@ -22,7 +22,7 @@ int main()
     char* second = new char[121];
     second = Change(str);
 
-    cout << "Модифікований строка: " << second;
+    cout << "Модифікована строка: " << second;
 
     return 0;
 }
